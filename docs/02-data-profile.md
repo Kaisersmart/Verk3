@@ -7,8 +7,6 @@ Nöfn:Samy, Oleksiy
 `scripts/profile-data.js` les `games_master_dataset.json`.
 Scriptið telur gögnin og sýnir niðurstöður í terminal.
 
-Engum skrám inni í `00` er breytt.
-
 ## Helstu niðurstöður
 
 ### Stærð gagnasafns
