@@ -5,11 +5,9 @@
 Vinnuheiti: Leikjafinnari
 
 ## Tilgangur
-
 Vefsíða sem hjálpar notanda að finna leik sem passar við það sem hann vill spila
 
 ## Notandi
-
 Fólk sem veit ekki hvaða leik það vill spila
 
 ## Vandamál
